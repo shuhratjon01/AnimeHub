@@ -39,6 +39,13 @@ Client ID можно указать в настройках приложения
 
 Проект распространяется в соответствии с лицензией, указанной в репозитории.
 
+  Скриншоты
+<img width="1280" height="800" alt="Снимок экрана 2026-09-29 201703" src="https://github.com/user-attachments/assets/2a21f463-7312-4249-8236-61d15e6afd27" />
+<img width="1280" height="800" alt="Снимок экрана 2026-09-29 201703" src="https://github.com/user-attachments/assets/117ce48c-9764-4649-a927-45255d46e40c" />
+<img width="1280" height="800" alt="Снимок экрана 2026-09-29 201653" src="https://github.com/user-attachments/assets/515bb5f8-ff5f-46ec-9906-1ec58b066603" />
+
+
+
 ---
 
 AnimeHub — удобный способ исследовать мир аниме прямо с рабочего стола.
